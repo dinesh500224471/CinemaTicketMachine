@@ -1,9 +1,0 @@
-Movie ID: 4
-Movie Title: Ice Age
-Genre: Science Fiction/Action
-Ticket Price: 12.25
-Movie Date: 11/30/2022
-Movie Timeslot: Night
-Ticket Type: Adult
-Number of Tickets: 1
-Total Pay: $12.25
