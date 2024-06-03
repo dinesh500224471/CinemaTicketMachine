@@ -1,0 +1,9 @@
+20,12/1/2022,Morning,Adult,0,0.0
+13,12/2/2022,Evening,Adult,10,142.4
+3,12/2/2022,Evening,Adult,1,14.24
+4,12/6/2022,Night,Adult,1,16.24
+2,12/6/2022,Night,Senior,3,48.72
+12,12/6/2022,Night,Adult,1,16.24
+8,12/6/2022,Night,Student,1,16.24
+16,12/1/2022,Morning,Adult,2,32.48
+4,11/30/2022,Night,Adult,1,12.25
